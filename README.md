@@ -25,7 +25,7 @@ cp core_mqtt_config_defaults.h core_mqtt_config.h
 cp ../interface/transport_interface.h ./
 
 ```
-5.
+5. build & test
 ```
 cargo build
 cargo test
